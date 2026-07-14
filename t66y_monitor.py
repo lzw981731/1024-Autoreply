@@ -11,9 +11,9 @@ import os
 from datetime import datetime
 
 # ========== 配置 ==========
-TG_BOT_TOKEN = "8475466502:AAGcnCLAnN9dRdHip7IOQdAkYkMIR28f46M"
-TG_CHAT_ID_VIDEO = "-1001773125005"  # 视频推送到这个群
-TG_CHAT_ID_PHOTO = "-1001326343945"  # 图片推送到这个群
+TG_BOT_TOKEN = "8475466502:AAGc11111111111111111" #机器人密钥
+TG_CHAT_ID_VIDEO = "-100111111111111"  # 视频推送到这个群
+TG_CHAT_ID_PHOTO = "-100111111111111"  # 图片推送到这个群
 FORUM_BASE = "https://t66y.com"
 SEARCH_URL = f"{FORUM_BASE}/thread0806.php?fid=7&search=today"
 
